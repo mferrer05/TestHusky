@@ -1,0 +1,23 @@
+{
+  "name": "testhusky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krey945/TestHusky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krey945/TestHusky/issues"
+  },
+  "homepage": "https://github.com/Krey945/TestHusky#readme",
+  "devDependencies": {
+    "husky": "^7.0.1"
+  }
+}
